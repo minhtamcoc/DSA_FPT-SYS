@@ -1,0 +1,3 @@
+MNL/DN-NT/Da Nang/Nha Trang/6.0/12.0/80/75
+ABC/HN-LC/Ha Noi/Lao Cai/6.0/8.0/80/55
+BCD/HN-HP/Ha Noi/Hai Phong/8.0/9.0/80/55

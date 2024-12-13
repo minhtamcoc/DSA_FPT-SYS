@@ -1,0 +1,8 @@
+T03/QB-NA/Quang Binh/Nghe An/9.0/12.3/60/55
+T04/HN-YB/Ha Noi/Yen Bai/9.0/11.3/45/20
+T09/TB-TQ/Thai Binh/Tuyen Quang/5.3/10.0/56/32
+T15/HN-HP/Ha Noi/Hai Phong/7.0/9.0/80/65
+T17/BN-HN/Bac Ninh/Ha Noi/9.0/10.3/45/40
+T19/TB-ND/Thai Binh/Nam Dinh/9.0/10.45/50/25
+T20/TB-HP/Thai Binh/Ha Noi/6.2/9.3/45/20
+T21/HN-HCM/Ha Noi/Ho Chi Minh/23.3/15.3/200/150
